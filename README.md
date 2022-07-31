@@ -73,8 +73,8 @@ For write module look core/modules/sample_module class
 
 + @[qwartz](http://github.com/qwartz) : Code update - multiple shortcut ...
 
-+ ### [Follow Me](https://github.com/Xcod3bughunt3r/blob/main/OperativeWebFramework/HACKILLYOURNET.md)
++ ### [Follow Me](https://github.com/Xcod3bughunt3r/OperativeWebFramework/blob/main/HACKILLYOURNET.md)
 
 #### This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
 
-+ ###### Please Check [License](https://github.com/Xcod3bughunt3r/blob/main/OperativeWebFramework/LICENSE)
++ ###### Please Check [License](https://github.com/Xcod3bughunt3r/OperativeWebFramework/blob/main/LICENSE)
